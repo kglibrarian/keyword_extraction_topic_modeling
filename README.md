@@ -1,6 +1,6 @@
 # Practice with Keyword Extraction and Topic Modeling
 
-This repository shows examples of keyword extraction using: 
+This repository shows examples of keyword extraction (with tfidf) using: 
 
 * YAKE!
 * Scikitlearn (sklearn)
@@ -8,5 +8,5 @@ This repository shows examples of keyword extraction using:
 
 This repository shows exmaples of topic modeling using: 
 
-* Scikitlearn (sklearn)
-* Gensim 
+* Scikitlearn (sklearn) (LDA and NMF)
+* Gensim (LDA)
