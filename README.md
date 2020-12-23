@@ -3,9 +3,10 @@
 This repository shows examples of keyword extraction using: 
 
 * YAKE!
-* Sci-kit-learn
+* Scikitlearn (sklearn)
 * Gensim 
 
 This repository shows exmaples of topic modeling using: 
 
-* Gensim
+* Scikitlearn (sklearn)
+* Gensim 
