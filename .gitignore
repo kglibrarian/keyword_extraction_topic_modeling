@@ -1,3 +1,6 @@
+# Files or directories to ignore
+Test_Files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
